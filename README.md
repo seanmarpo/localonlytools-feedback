@@ -6,6 +6,14 @@ This repo exists so anyone can report bugs, request new tools, and follow along 
 
 ---
 
+## Support the project
+
+localonly.tools is free to use, has no ads, and never asks you to create an account. Every tool runs entirely in your browser — there's no server to pay for, just time and coffee.
+
+If the tools save you time or give you peace of mind, consider [buying a coffee ☕](https://ko-fi.com/smarpo) to help keep the project going and new tools coming.
+
+---
+
 ## What is localonly.tools?
 
 localonly.tools is a suite of developer and power-user tools that run **entirely in your browser**. No data is ever uploaded to a server. No account required. No ads.
